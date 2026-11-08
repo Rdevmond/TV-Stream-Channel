@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
-import { Tv, Shield, User, Lock, AlertCircle, ArrowRight, PlayCircle } from 'lucide-react';
+import { Tv, Lock, User, AlertCircle, ArrowLeft } from 'lucide-react';
 import { USERS } from '../services/storageService';
 
 export default function LoginModal({ onLoginSuccess }) {
   const [isAdminMode, setIsAdminMode] = useState(false);
-  const [password, setPassword] = useState('admin123');
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
   const [error, setError] = useState('');
 
   // Handle Guest Login (No password required)
@@ -12,13 +13,14 @@ export default function LoginModal({ onLoginSuccess }) {
     onLoginSuccess(USERS.guest);
   };
 
-  // Handle Admin Login (Password required)
+  // Handle Admin Login (Username & Password checked)
   const handleAdminLogin = (e) => {
     e.preventDefault();
     setError('');
 
-    if (password !== USERS.admin.password) {
-      setError('Password administrator salah! Gunakan: admin123');
+    const trimmedUser = username.trim().toLowerCase();
+    if (trimmedUser !== USERS.admin.username || password !== USERS.admin.password) {
+      setError('Username atau password salah.');
       return;
     }
 
@@ -26,127 +28,119 @@ export default function LoginModal({ onLoginSuccess }) {
   };
 
   return (
-    <div className="min-h-screen bg-slate-100 flex flex-col justify-center items-center px-4 py-8">
-      <div className="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 overflow-hidden">
+    <div className="min-h-screen bg-slate-100 flex items-center justify-center p-4">
+      <div className="w-full max-w-sm bg-white rounded-xl border border-slate-200 shadow-sm p-6 sm:p-8">
         
-        {/* Header Banner - Deep Navy */}
-        <div className="bg-navy-900 px-6 py-8 text-white text-center border-b border-navy-800">
-          <div className="inline-flex items-center justify-center w-14 h-14 rounded-xl bg-navy-800 border border-navy-700 text-blue-400 mb-3 shadow-inner">
-            <Tv className="w-8 h-8" />
+        {/* Brand Header */}
+        <div className="flex items-center gap-2.5 mb-6">
+          <div className="w-9 h-9 rounded-lg bg-navy-900 text-white flex items-center justify-center shrink-0">
+            <Tv className="w-5 h-5 text-blue-400" />
           </div>
-          <h1 className="text-2xl font-bold tracking-tight">StreamTV Portal</h1>
-          <p className="text-xs text-slate-300 mt-1 max-w-xs mx-auto">
-            Portal streaming siaran TV langsung • Saluran Indonesia & Bahasa Inggris
-          </p>
+          <div>
+            <h1 className="font-bold text-lg text-slate-900 tracking-tight leading-none">StreamTV</h1>
+            <p className="text-xs text-slate-500 mt-0.5">Pemutar Siaran Televisi</p>
+          </div>
         </div>
 
-        {/* Content Body */}
-        <div className="p-6 sm:p-8">
-          
-          {!isAdminMode ? (
-            /* --- GUEST MODE (NO PASSWORD) --- */
-            <div className="space-y-5 text-center">
-              <div className="p-4 rounded-xl bg-blue-50/60 border border-blue-100 text-slate-700">
-                <div className="w-10 h-10 rounded-full bg-blue-100 text-blue-700 flex items-center justify-center mx-auto mb-2">
-                  <User className="w-5 h-5" />
+        {!isAdminMode ? (
+          /* --- GUEST VIEW --- */
+          <div className="space-y-4">
+            <button
+              type="button"
+              onClick={handleGuestLogin}
+              className="w-full bg-navy-900 hover:bg-navy-800 active:bg-navy-950 text-white font-medium py-2.5 px-4 rounded-lg text-sm transition"
+            >
+              Masuk sebagai Tamu
+            </button>
+
+            <div className="pt-3 border-t border-slate-100 text-center">
+              <button
+                type="button"
+                onClick={() => {
+                  setIsAdminMode(true);
+                  setUsername('');
+                  setPassword('');
+                  setError('');
+                }}
+                className="text-xs text-slate-500 hover:text-navy-900 transition font-medium"
+              >
+                Login sebagai Admin
+              </button>
+            </div>
+          </div>
+        ) : (
+          /* --- ADMIN LOGIN FORM --- */
+          <div>
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-sm font-semibold text-slate-900">Login Administrator</h2>
+              <button
+                type="button"
+                onClick={() => {
+                  setIsAdminMode(false);
+                  setUsername('');
+                  setPassword('');
+                  setError('');
+                }}
+                className="text-xs text-slate-500 hover:text-slate-800 inline-flex items-center gap-1"
+              >
+                <ArrowLeft className="w-3.5 h-3.5" />
+                <span>Kembali</span>
+              </button>
+            </div>
+
+            {error && (
+              <div className="mb-4 p-2.5 rounded-lg bg-red-50 border border-red-200 text-red-700 text-xs flex items-center gap-2">
+                <AlertCircle className="w-4 h-4 shrink-0" />
+                <span>{error}</span>
+              </div>
+            )}
+
+            <form onSubmit={handleAdminLogin} className="space-y-3">
+              <div>
+                <label className="block text-xs font-medium text-slate-700 mb-1">
+                  Username
+                </label>
+                <div className="relative">
+                  <User className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+                  <input
+                    type="text"
+                    required
+                    autoCapitalize="none"
+                    autoCorrect="off"
+                    value={username}
+                    onChange={(e) => setUsername(e.target.value)}
+                    placeholder="Masukkan username"
+                    className="w-full bg-slate-50 border border-slate-300 rounded-lg pl-9 pr-3 py-2 text-sm text-slate-900 focus:bg-white focus:outline-none focus:border-navy-900 focus:ring-1 focus:ring-navy-900"
+                  />
                 </div>
-                <h3 className="font-bold text-sm text-navy-900">Masuk Langsung sebagai Penonton (Guest)</h3>
-                <p className="text-xs text-slate-500 mt-1 leading-relaxed">
-                  Tidak perlu mendaftar atau memasukkan kata sandi. Anda bisa langsung menjelajahi ratusan siaran TV dan menandai favorit.
-                </p>
+              </div>
+
+              <div>
+                <label className="block text-xs font-medium text-slate-700 mb-1">
+                  Password
+                </label>
+                <div className="relative">
+                  <Lock className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+                  <input
+                    type="password"
+                    required
+                    value={password}
+                    onChange={(e) => setPassword(e.target.value)}
+                    placeholder="Masukkan password"
+                    className="w-full bg-slate-50 border border-slate-300 rounded-lg pl-9 pr-3 py-2 text-sm text-slate-900 focus:bg-white focus:outline-none focus:border-navy-900 focus:ring-1 focus:ring-navy-900"
+                  />
+                </div>
               </div>
 
               <button
-                type="button"
-                onClick={handleGuestLogin}
-                className="w-full bg-blue-700 hover:bg-blue-600 active:bg-blue-800 text-white font-semibold py-3 px-4 rounded-xl text-sm transition flex items-center justify-center gap-2 shadow-md hover:shadow-lg"
+                type="submit"
+                className="w-full bg-navy-900 hover:bg-navy-800 text-white font-medium py-2 px-4 rounded-lg text-sm transition mt-1"
               >
-                <PlayCircle className="w-5 h-5" />
-                <span>Mulai Nonton Sekarang (Gratis)</span>
+                Masuk
               </button>
-
-              <div className="pt-4 border-t border-slate-200">
-                <button
-                  type="button"
-                  onClick={() => { setIsAdminMode(true); setError(''); }}
-                  className="text-xs text-slate-500 hover:text-navy-900 font-medium inline-flex items-center gap-1.5 transition"
-                >
-                  <Shield className="w-3.5 h-3.5 text-slate-400" />
-                  <span>Apakah Anda Administrator? Klik untuk Masuk Admin</span>
-                </button>
-              </div>
-            </div>
-          ) : (
-            /* --- ADMIN MODE (PASSWORD REQUIRED) --- */
-            <div>
-              <div className="flex items-center justify-between mb-4">
-                <h3 className="text-sm font-bold text-navy-900 flex items-center gap-2">
-                  <Shield className="w-4 h-4 text-blue-700" />
-                  <span>Login Administrator</span>
-                </h3>
-                <button
-                  type="button"
-                  onClick={() => setIsAdminMode(false)}
-                  className="text-xs text-blue-600 hover:underline"
-                >
-                  ← Kembali ke Guest
-                </button>
-              </div>
-
-              {error && (
-                <div className="mb-4 p-3 rounded-lg bg-red-50 border border-red-200 text-red-700 text-xs flex items-center gap-2">
-                  <AlertCircle className="w-4 h-4 shrink-0" />
-                  <span>{error}</span>
-                </div>
-              )}
-
-              <form onSubmit={handleAdminLogin} className="space-y-4">
-                <div>
-                  <label className="block text-xs font-semibold text-slate-700 mb-1">
-                    Username
-                  </label>
-                  <input
-                    type="text"
-                    disabled
-                    value="admin"
-                    className="w-full bg-slate-100 border border-slate-300 rounded-lg px-3 py-2 text-sm text-slate-600 cursor-not-allowed"
-                  />
-                </div>
-
-                <div>
-                  <label className="block text-xs font-semibold text-slate-700 mb-1">
-                    Password Admin
-                  </label>
-                  <div className="relative">
-                    <Lock className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
-                    <input
-                      type="password"
-                      required
-                      value={password}
-                      onChange={(e) => setPassword(e.target.value)}
-                      placeholder="Masukkan admin123"
-                      className="w-full bg-slate-50 border border-slate-300 rounded-lg pl-9 pr-3 py-2 text-sm text-slate-800 focus:bg-white focus:outline-none focus:border-navy-800 focus:ring-1 focus:ring-navy-800 transition"
-                    />
-                  </div>
-                </div>
-
-                <button
-                  type="submit"
-                  className="w-full bg-navy-800 hover:bg-navy-900 text-white font-medium py-2.5 px-4 rounded-xl text-sm transition flex items-center justify-center gap-2 shadow-sm"
-                >
-                  <span>Masuk Panel Admin</span>
-                  <ArrowRight className="w-4 h-4" />
-                </button>
-              </form>
-            </div>
-          )}
-
-        </div>
-
-        {/* Footer */}
-        <div className="bg-slate-50 px-6 py-3 border-t border-slate-200 text-center text-[11px] text-slate-500">
-          Putih & Biru Tua • Bebas Siaran Bahasa Latin & Arab
-        </div>
+            </form>
+          </div>
+        )}
 
       </div>
     </div>
