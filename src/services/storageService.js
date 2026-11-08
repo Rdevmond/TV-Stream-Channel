@@ -15,12 +15,13 @@ const broadcast = typeof window !== 'undefined' && 'BroadcastChannel' in window
 export const USERS = {
   admin: {
     username: 'admin',
-    password: 'admin123',
+    password: 'indonesia',
     name: 'Administrator',
     role: 'admin',
   },
   guest: {
     username: 'guest',
+    password: 'indonesia',
     name: 'Tamu (Guest)',
     role: 'guest',
   }
