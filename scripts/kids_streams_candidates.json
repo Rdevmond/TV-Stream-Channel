@@ -1,0 +1,1661 @@
+[
+  {
+    "channel": "CartoonClassics.pl",
+    "feed": "FAST",
+    "title": "Cartoon Classics",
+    "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonClassics.ru",
+    "feed": "SD",
+    "title": "Cartoon Classics",
+    "url": "http://88.218.242.237:8001/Cartoon_Classics",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Cartoonito.it",
+    "feed": "HD",
+    "title": "Cartoonito HD",
+    "url": "https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoAsia.sg",
+    "feed": "SD",
+    "title": "Cartoonito Asia",
+    "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoAsia.sg",
+    "feed": "SD",
+    "title": "Cartoonito Asia",
+    "url": "http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "Bulgary",
+    "title": "Cartoonito CEE Bulgary",
+    "url": "http://213.91.179.28:8000/play/a0c7",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "Czechia",
+    "title": "Cartoonito CEE Czechia",
+    "url": "http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "Poland",
+    "title": "Cartoonito CEE Poland",
+    "url": "http://92.114.85.87:8007/play/a008",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoCEE.uk",
+    "feed": "SD",
+    "title": "Cartoonito CEE",
+    "url": "http://193.33.39.108:9019/play/a00t",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonitoLatinAmerica.us",
+    "feed": "SD",
+    "title": "Cartoonito Latin America",
+    "url": "http://45.173.12.70:8000/play/a0hh",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.in",
+    "feed": "SD",
+    "title": "Cartoon Network",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.it",
+    "feed": "SD",
+    "title": "Cartoon Network",
+    "url": "http://185.227.34.104/stream/122/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.pk",
+    "feed": "SD",
+    "title": "Cartoon Network",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.tr",
+    "feed": "SD",
+    "title": "Cartoon Network",
+    "url": "http://176.65.153.40:6002/play/a013/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.us",
+    "feed": "East",
+    "title": "Cartoon Network",
+    "url": "http://212.5.144.156:8080/cartoon/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetwork.us",
+    "feed": "East",
+    "title": "Cartoon Network",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
+    "quality": null,
+    "labels": [
+      "Not 24/7",
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkArabic.ae",
+    "feed": "SD",
+    "title": "Cartoon Network Arabic",
+    "url": "http://149.100.11.252:8000/play/a056/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkAsia.sg",
+    "feed": "SD",
+    "title": "Cartoon Network Asia",
+    "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkAsia.sg",
+    "feed": "SD",
+    "title": "Cartoon Network Asia",
+    "url": "http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "Bulgary",
+    "title": "Cartoon Network CEE Bulgary",
+    "url": "http://213.91.179.28:8000/play/a08g",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "CzechRepublic",
+    "title": "Cartoon Network CEE Czech Republic",
+    "url": "http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "Germany",
+    "title": "Cartoon Network CEE Germany",
+    "url": "http://94.130.48.67:8042/stream/109/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "Hungary",
+    "title": "Cartoon Network CEE",
+    "url": "http://193.33.39.108:9007/play/a00l",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "Poland",
+    "title": "Cartoon Network CEE Poland",
+    "url": "http://92.114.85.87:8007/play/a009",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkCEE.uk",
+    "feed": "Ukraine",
+    "title": "Cartoon Network CEE Ukraine",
+    "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkHDPlus.in",
+    "feed": "HD",
+    "title": "Cartoon Network HD+",
+    "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkHDPlus.in",
+    "feed": "SD",
+    "title": "Cartoon Network HD+",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "Brazil",
+    "title": "Cartoon Network Latin America Brazil",
+    "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "Brazil",
+    "title": "Cartoon Network Latin America Brazil",
+    "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "NorthAtlantic",
+    "title": "Cartoon Network Latin America North Atlantic",
+    "url": "http://38.252.238.18:8000/play/a053/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "NorthAtlantic",
+    "title": "Cartoon Network Latin America North Atlantic",
+    "url": "http://45.173.12.70:8000/play/a0fj",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "NorthAtlantic",
+    "title": "Cartoon Network Latin America North Atlantic",
+    "url": "http://170.244.209.30:8000/play/a027/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "SouthAtlantic",
+    "title": "Cartoon Network Latin America South Atlantic",
+    "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "SouthAtlanticHD",
+    "title": "Cartoon Network Latin America",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": null
+  },
+  {
+    "channel": "CartoonNetworkLatinAmerica.us",
+    "feed": "SouthPacific",
+    "title": "Cartoon Network Latin America South Pacific",
+    "url": "http://45.167.1.138:8000/play/a00w",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.bg",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://87.120.179.187:8000/play/a010",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.bg",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://213.91.179.28:8000/play/a059",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.cz",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://88.212.15.50/live/test_disney/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.de",
+    "feed": "HD",
+    "title": "Disney Channel HD",
+    "url": "http://109.85.181.77:9981/stream/channelid/652495718?profile=pass",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.de",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "https://s6.hopslan.com/disneyX/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.de",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.hu",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://88.212.7.14/live/disney_channel_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.hu",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://193.33.39.108:9019/play/a00n",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.in",
+    "feed": "HD",
+    "title": "Disney Channel HD",
+    "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.nl",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.nl",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://86.87.15.10:8004/play/a02g/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.nl",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.pl",
+    "feed": "HD",
+    "title": "Disney Channel HD",
+    "url": "http://185.227.34.179:8080/disney-channel-hd/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.pt",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.pt",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "http://zntx.dyndns.org:8085/hls/disney.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannel.ro",
+    "feed": "SD",
+    "title": "Disney Channel",
+    "url": "https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/"
+  },
+  {
+    "channel": "DisneyChannel.us",
+    "feed": "East",
+    "title": "Disney Channel",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Center",
+    "title": "Disney Channel Latin America Center",
+    "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Mexico",
+    "title": "Disney Channel Latin America Mexico",
+    "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "North",
+    "title": "Disney Channel Latin America North",
+    "url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "http://45.70.201.81:8000/play/a00i/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Channel Latin America",
+    "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "PanregionalHD",
+    "title": "Disney Channel Latin America Panregional HD",
+    "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "PanregionalHD",
+    "title": "Disney Channel Latin America Panregional HD",
+    "url": "http://138.59.227.20:8000/play/a06w/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "PanregionalHD",
+    "title": "Disney Channel Latin America Panregional HD",
+    "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyChannelLatinAmerica.ar",
+    "feed": "South",
+    "title": "Disney Channel Latin America South",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJr.fr",
+    "feed": "SD",
+    "title": "Disney Jr.",
+    "url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJr.fr",
+    "feed": "SD",
+    "title": "Disney Jr.",
+    "url": "http://41.205.64.66/DISNEY-JUNIOR/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJr.tr",
+    "feed": "SD",
+    "title": "Disney Jr.",
+    "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "North",
+    "title": "Disney Jr. Latin America",
+    "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "NorthHD",
+    "title": "Disney Jr. Latin America North HD",
+    "url": "http://181.78.14.26:4000/play/a073/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "NorthHD",
+    "title": "Disney Jr. Latin America North HD",
+    "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "Panregional",
+    "title": "Disney Jr. Latin America",
+    "url": "http://190.93.224.42/DISNEY-JR/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "South",
+    "title": "Disney Jr. Latin America South",
+    "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "South",
+    "title": "Disney Jr. Latin America South",
+    "url": "http://45.70.201.81:8000/play/a00g/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "South",
+    "title": "Disney Jr. Latin America South",
+    "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJrLatinAmerica.ar",
+    "feed": "SouthHD",
+    "title": "Disney Jr. Latin America South HD",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJunior.cz",
+    "feed": "SD",
+    "title": "Disney Junior",
+    "url": "http://88.212.15.50/live/test_disney_junior/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJunior.ro",
+    "feed": "SD",
+    "title": "Disney Junior",
+    "url": "https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/"
+  },
+  {
+    "channel": "DisneyJunior.us",
+    "feed": "East",
+    "title": "Disney Junior",
+    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJunior.us",
+    "feed": "East",
+    "title": "Disney Junior",
+    "url": "http://tvsen7.aynascope.net/disney/index.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJunior.us",
+    "feed": "East",
+    "title": "Disney Junior",
+    "url": "http://tvsen7.aynascope.net/disneyjr/index.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJunior.us",
+    "feed": "East",
+    "title": "Disney Junior",
+    "url": "https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyJunior.us",
+    "feed": "East",
+    "title": "Disney Junior",
+    "url": "http://212.5.144.156/disneyjr/index.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyXD.pl",
+    "feed": "SD",
+    "title": "Disney XD",
+    "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "DisneyXD.us",
+    "feed": "East",
+    "title": "Disney XD",
+    "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GoldenEagleCartoon.cn",
+    "feed": "SD",
+    "title": "Golden Eagle Cartoon",
+    "url": "http://1.24.190.98:10080/hls/51/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GoldenEagleCartoon.cn",
+    "feed": "SD",
+    "title": "金鹰卡通",
+    "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GoldenEagleCartoon.cn",
+    "feed": "SD",
+    "title": "金鹰卡通",
+    "url": "http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8",
+    "quality": "576p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GoldenEagleCartoon.cn",
+    "feed": "SD",
+    "title": "金鹰卡通 (湖南)",
+    "url": "http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8",
+    "quality": "540p",
+    "labels": [
+      "Not 24/7"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GospelCartoon.br",
+    "feed": "SD",
+    "title": "Gospel Cartoon",
+    "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickComedyCentralPlus1.de",
+    "feed": "SD",
+    "title": "Nick/Comedy Central +1",
+    "url": "http://90.183.52.46:4000/play/a046/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.bg",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://87.120.179.187:8000/play/a00x",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.bg",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://213.91.179.28:8000/play/a056",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.br",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "quality": "480p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.cz",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.cz",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://193.33.39.108:9011/play/a018",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.de",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.de",
+    "feed": "SD",
+    "title": "Nickelodeon Deutschland",
+    "url": "https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8",
+    "quality": null,
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.hu",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.hu",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://193.33.39.108:9011/play/a017",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.in",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.in",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.in",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+    "quality": "576p",
+    "labels": [
+      "Geo-blocked"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.in",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://103.135.253.32:8080/NICK/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.it",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://185.227.34.104/stream/117/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.nl",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.ro",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://178.76.68.60:7442/64/mpegts",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeon.ru",
+    "feed": "SD",
+    "title": "Nickelodeon",
+    "url": "http://stream.mcquack.net/443/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonAsia.sg",
+    "feed": "SD",
+    "title": "Nickelodeon Asia",
+    "url": "http://103.253.74.210:7070/stream/117/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonCIS.kz",
+    "feed": "SD",
+    "title": "Nickelodeon CIS",
+    "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClasico.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Clásico",
+    "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClassico.us",
+    "feed": "BR",
+    "title": "Nickelodeon Clássico",
+    "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonClassics.de",
+    "feed": "DACH",
+    "title": "Nickelodeon Classics",
+    "url": "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nickelodeonenespanol.us",
+    "feed": "SD",
+    "title": "Nickelodeon en español",
+    "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://181.78.79.131:8000/play/a0qm",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://190.93.224.42/NICK/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "http://190.234.82.52:8000/play/a0ke/index.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nickelodeon Latin America",
+    "url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonPlutoTV.us",
+    "feed": "SD",
+    "title": "Nickelodeon Pluto TV",
+    "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonTeen.us",
+    "feed": "BR",
+    "title": "Nickelodeon Teen",
+    "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonTeen.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Teen",
+    "url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonToons.us",
+    "feed": "BR",
+    "title": "Nickelodeon Toons",
+    "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickelodeonToons.us",
+    "feed": "LatAm",
+    "title": "Nickelodeon Toons",
+    "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.cz",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.de",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://94.130.48.67:8042/stream/111/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.hr",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://176.61.157.250/NickJr/index.m3u8",
+    "quality": "540p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.hu",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://88.212.7.14/live/nick_junior_hun/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.in",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.in",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.in",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.it",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://102.129.186.182:81/nick/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.it",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "https://streamer-jv9.pages.dev/italy/nickjr.m3u",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.pl",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://92.114.85.87:8013/play/a004/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.ru",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "http://stream.mcquack.net/220/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.ru",
+    "feed": "SD",
+    "title": "Nick Jr.",
+    "url": "https://stream8.cinerama.uz/1501/playlist.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.us",
+    "feed": "East",
+    "title": "Nick Jr.",
+    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJr.us",
+    "feed": "East",
+    "title": "Nick Jr.",
+    "url": "http://tvsen7.aynascope.net/nickjr/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrAsia.sg",
+    "feed": "SD",
+    "title": "Nick Jr. Asia",
+    "url": "http://103.253.74.210:7070/stream/116/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "NickJrClub.de",
+    "feed": "DACH",
+    "title": "Nick Jr. Club",
+    "url": "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrClub.us",
+    "feed": "BR",
+    "title": "Nick Jr. Club",
+    "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrClub.us",
+    "feed": "LatAm",
+    "title": "Nick Jr. Club",
+    "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrLatinAmerica.us",
+    "feed": "Panregional",
+    "title": "Nick Jr. Latin America",
+    "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrPlutoTV.us",
+    "feed": "CA",
+    "title": "Nick Jr. Pluto TV",
+    "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickJrPlutoTV.us",
+    "feed": "US",
+    "title": "Nick Jr. Pluto TV",
+    "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickOnline.br",
+    "feed": "HD",
+    "title": "NickOnline HD",
+    "url": "https://x1colegal.com/hls/stream.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NickSchweiz.ch",
+    "feed": "SD",
+    "title": "Nick Schweiz",
+    "url": "https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.cz",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.de",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://94.130.48.67:8042/stream/112/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.hu",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://88.212.7.14/live/nicktoons_hungary/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.pl",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://92.114.85.87:8013/play/a008/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.ro",
+    "feed": "SD",
+    "title": "Nicktoons",
+    "url": "http://178.76.68.60:7442/80/mpegts",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.us",
+    "feed": "CA",
+    "title": "NickToons",
+    "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.us",
+    "feed": "East",
+    "title": "Nicktoons",
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "Nicktoons.us",
+    "feed": "East",
+    "title": "Nicktoons",
+    "url": "https://tvsen7.aynascope.net/nicktoons/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "NicktoonsCIS.ru",
+    "feed": "SD",
+    "title": "Nicktoons CIS",
+    "url": "https://stream8.cinerama.uz/1502/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "RetroCartoon.br",
+    "feed": "SD",
+    "title": "Retro Cartoon",
+    "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TeenNick.il",
+    "feed": "SD",
+    "title": "TeenNick",
+    "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
+    "quality": "406p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TeenNick.pl",
+    "feed": "SD",
+    "title": "TeenNick",
+    "url": "http://92.114.85.87:8010/play/a009/index.m3u8",
+    "quality": "576i",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TeenNick.us",
+    "feed": "East",
+    "title": "TeenNick",
+    "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
+    "quality": "432p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "VeronicaDisneyJr.nl",
+    "feed": "SD",
+    "title": "Veronica / Disney Jr.",
+    "url": "https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8",
+    "quality": "360p",
+    "labels": [],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": null
+  },
+  {
+    "channel": "XtremaCartoons.ar",
+    "feed": "SD",
+    "title": "Xtrema Cartoons",
+    "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": "https://xtrematv.com/?p=1390"
+  },
+  {
+    "channel": "YouManCartoonChannel.cn",
+    "feed": "SD",
+    "title": "优漫卡通",
+    "url": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "YouManCartoonChannel.cn",
+    "feed": "SD",
+    "title": "优漫卡通",
+    "url": "http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8",
+    "quality": "576p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ZBCartoon.in",
+    "feed": "HD",
+    "title": "ZB Cartoon",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  }
+]
